@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cleaning_spa/static/css/main.073c9b0a.css",
+    "main.js": "/cleaning_spa/static/js/main.76db9a82.js",
+    "static/js/787.c661db23.chunk.js": "/cleaning_spa/static/js/787.c661db23.chunk.js",
+    "static/media/logo.svg": "/cleaning_spa/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cleaning_spa/index.html",
+    "main.073c9b0a.css.map": "/cleaning_spa/static/css/main.073c9b0a.css.map",
+    "main.76db9a82.js.map": "/cleaning_spa/static/js/main.76db9a82.js.map",
+    "787.c661db23.chunk.js.map": "/cleaning_spa/static/js/787.c661db23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.76db9a82.js"
+  ]
+}
